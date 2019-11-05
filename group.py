@@ -1,3 +1,8 @@
+#Diego and Tyler
+#11.03.19
+#Group project.
+
+
 import random
 player =[]
 computer = []
